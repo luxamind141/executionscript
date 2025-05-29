@@ -1,1 +1,3 @@
-print("helloiiiooooo")
+import subprocess
+
+subprocess.Popen("cmd.exe")
