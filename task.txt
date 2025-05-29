@@ -1,1 +1,0 @@
-https://raw.githubusercontent.com/luxamind141/executionscript/refs/heads/main/script.py
